@@ -1,4 +1,4 @@
-# Climate Console App
+# Climate Console App
 
 ## Requirements
 npm install
